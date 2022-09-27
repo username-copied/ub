@@ -1,6 +1,6 @@
 import React from "react";
 import Logo from "../assests/logo.jpg";
-import Temple from "../assests/Temple.svg";
+// import Temple from "../assests/Temple.svg";
 import Rangoli from "../assests/Rangoli2.png";
 import Navbar from "./Navbar";
 import Shreya from "../assests/Shreya.jpg";
